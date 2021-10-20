@@ -1,1 +1,6 @@
 google.com, pub-1509377280448287, DIRECT, f08c47fec0942fa0
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1972, RESELLER
+rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
